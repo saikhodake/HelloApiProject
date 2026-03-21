@@ -1,4 +1,2 @@
 com\example\demo\HelloApiApplication.class
-com\example\demo\UserController.class
 com\example\demo\User.class
-com\example\demo\UserRepository.class

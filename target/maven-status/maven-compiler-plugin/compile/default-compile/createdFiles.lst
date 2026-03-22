@@ -1,2 +1,6 @@
-com\example\demo\HelloApiApplication.class
+com\example\demo\AuthRequest.class
 com\example\demo\User.class
+com\example\demo\JwtUtil.class
+com\example\demo\HelloApiApplication.class
+com\example\demo\security\JWTFilter.class
+com\example\demo\UserRepository.class
